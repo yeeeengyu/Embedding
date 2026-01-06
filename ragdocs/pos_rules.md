@@ -1,9 +1,7 @@
 ---
-document_type: 가이드
-target_level: 주의
-intent: 예방
-severity: 중간
-category: 상점
+  "category": "상점",
+  "section": ["교내 환경", "명예 표창", "선행 질서", "수업 관련"],
+  "behavior": ["봉사", "도움", "모범", "신고", "헌신", "솔선수범"],
 ---
 
 다음은 학생 생활 중 상점을 받을 수 있는 규정들이다.

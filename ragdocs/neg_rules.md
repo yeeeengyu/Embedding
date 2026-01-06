@@ -1,9 +1,7 @@
 ---
-document_type: 가이드
-target_level: 주의
-intent: 예방
-severity: 중간
-category: 벌점
+  "category": "벌점",
+  "section": ["용의복장", "교내 생활", "교외 생활", "야간 자습 시간", "출결 수업", "흡연 · 음주 · 약물"],
+  "behavior": ["문신", "염색", "음주", "흡연", "지각", "욕설"]
 ---
 
 
