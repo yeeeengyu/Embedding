@@ -1,3 +1,8 @@
+'''
+Gemini 임베딩모델 불러오기
+embed 함수로 문장/문서 임베딩
+'''
+
 import google.generativeai as genai
 import numpy as np
 
