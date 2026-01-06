@@ -1,4 +1,4 @@
-from utils.chuncks import load_chunks
+from utils.chunks import load_chunks
 from utils.embeds import embed
 POS = load_chunks("ragdocs/pos_rules.md", '상점')
 NEG = load_chunks("ragdocs/neg_rules.md", '벌점')
